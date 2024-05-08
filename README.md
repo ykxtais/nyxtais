@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**nyxtais/nyxtais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I'm Taís ⋆౨ৎ˚✧˖☾
+                
+ 
+#### ✧ ♪ ˖ ⊹ ♬˚₊‧ a bit of me 🎸⋆⭒˚｡⋆
+-  I'm studying systems analysis and development at FIAP
+-  pt-br / en / zh-cn
+ 
+<a href="https://github.com/nyxtais/github-readme-stats">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyxtais&layout=compact&bg_color=ff00&title_color=36C0C5&hide_border=True&include_all_commits=true&count_private=true" width="40%" alt="Github Stats"/>
+</a>
+<img align='center' src="https://github-readme-stats.vercel.app/api?username=nyxtais&show_icons=true&title_color=F57171&icon_color=F57171&bg_color=ff00&hide_border=True&count_private=true" width="45%" alt="ilustração do status do github">
