@@ -1,8 +1,9 @@
-### I'm Taís ✩࿐࿔ 
 
- #
  
-<img align="right" alt="meow" width="350" src="https://github.com/nyxtais/nyxtais/assets/166261374/ae3ea810-0ef0-4540-a989-f1416fdec520">
+ 
+<img align="right" alt="meow" width="400" src="https://github.com/nyxtais/nyxtais/assets/166261374/ae3ea810-0ef0-4540-a989-f1416fdec520">
+
+### I'm Taís ✩࿐࿔ 
  
 #### a bit of me  ★⸜ 🎧 ₊ ⋆ 🎸☆ ♪
 -  I'm studying systems analysis and development at FIAP 
