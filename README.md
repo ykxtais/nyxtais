@@ -2,12 +2,12 @@
 
  #
  
+<img align="right" alt="meow" width="350" src="https://github.com/nyxtais/nyxtais/assets/166261374/fcc828b8-887e-44d2-9531-fdba425db7ad">
+ 
 #### a bit of me  ★⸜ 🎧 ₊ ⋆ 🎸☆ ♪
 -  I'm studying systems analysis and development at FIAP 
 -  pt-br / en / zh-cn
  
-<img align="right" alt="meow" width="350" src="https://github.com/nyxtais/nyxtais/assets/166261374/fcc828b8-887e-44d2-9531-fdba425db7ad">
-
 #
 
 <div align="center">  
