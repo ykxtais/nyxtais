@@ -5,9 +5,9 @@
 
 ### I'm Taís ✩࿐࿔ 
  
-#### a bit of me  ★⸜ 🎧 ₊ ⋆ 🎸☆ ♪
+#### A bit of me  ★⸜ 🎧 ₊ ⋆ 🎸☆ ♪
 -  I'm studying systems analysis and development at FIAP 
--  pt-br / en / zh-cn
+-  pt-br / en / zh-cn 中文
 
 #
 
