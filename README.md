@@ -1,6 +1,6 @@
 <img align="right" alt="meow" width="350" src="https://github.com/user-attachments/assets/6927bb73-7ce4-4d75-958b-5a6b1ce77db8">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&color=00FF00&width=435&lines=%5B~%5D%24+whoami" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&color=00FF00&width=435&lines=%5B~%5D%24+whoami;ykxtais;" alt="Typing SVG" />
 
 ### I'm Taís 
  
